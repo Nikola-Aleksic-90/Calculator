@@ -1,1 +1,1 @@
-Calculator
+Moja prva C# WPF aplikacija.
